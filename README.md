@@ -1,5 +1,3 @@
-# Firmware avertisseur vocal SmartVOX® SV
+# SmartVOX® SV radio voice sounder firmware
 
-Site Web : <https://www.aet.fr/solutions-dalerte/systeme-dalerte-smartvox-xpa3013.html>
-
-Notice SmartVOX® : <https://www.calameo.com/read/00345807799f363a5435b>
+WEB site : <https://smartvox.fr/>
