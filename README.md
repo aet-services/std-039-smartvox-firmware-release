@@ -1,3 +1,3 @@
-# SmartVOX® SV radio voice sounder firmware
+# SmartVOX® SV firmware
 
 WEB site : <https://smartvox.fr/>
